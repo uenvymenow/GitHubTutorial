@@ -1,0 +1,6 @@
+Start day off with 
+	git pull
+Make changes
+	git add -A
+	git commit -m 'message'
+	
